@@ -9,6 +9,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 
 ---
-# Odnaučte se svou bolest
+# Je to v hlavě
 
 Pomohu Vám pracovat s bolestí pomocí účinných metod založených na vědeckém výzkumu chování mozku.
