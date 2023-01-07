@@ -9,6 +9,21 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 
 ---
-# Je to v hlavě
 
-Pomohu Vám pracovat s bolestí pomocí účinných metod založených na vědeckém výzkumu chování mozku.
+# Co je to bolest
+...
+
+# Jak chápat chronickou bolest
+...
+
+# Mozek jako primární orgán bolesti
+...
+
+# Neuroplastická bolest
+...
+
+# Léčba neuroplastické bolesti
+...
+
+# Je moje bolest neuroplastická
+...
